@@ -109,3 +109,7 @@ body {
 .icon-addon:hover .fa {
   color: #2580db;
 }
+
+.center {
+ text-align: center;
+}
