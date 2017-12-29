@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="../vendors/bootstrap/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+   <link rel="stylesheet" href="../css/signup-phone.css">
+  
+	<title>LYFT</title>
+</head>
+<body class="vh100" >
+  <a href="register.html" type="button" class="btn btn-success">
+    <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+  </a>
+  <br><br><br><br><br>
+  <form class="container text-center">
+    <h1 class="title">Sing Up</h1>
+    <h5>Join now for free ride credit</h5>
+    <hr>
+    <br>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="input-group">
+          <div class="input-group-btn search-panel">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <span id="search_concept"><span class="glyphicon glyphicon-align-justify"></span> COUNTRY</span> 
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="#contains"><span class="glyphicon countrype"></span></a></li>
+              <li><a href="#its_equal"><span class="glyphicon countryarg text-warning"></span></a></li>
+              <li><a href="#greather_than"> <span class="glyphicon countrybr text-success"></span></a></li>
+              <li><a href="#less_than"> <span class="glyphicon countryeu text-primary"></span></a></li>
+              <li><a href="#all"> <span class="glyphicon countryuru text-primary"></span></a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">Separated link</a></li>
+            </ul>
+          </div>
+          <input type="text" class="form-control" aria-label="..."> 
+        </div>
+      </div>
+    </div>
+    <br>
+    <h5>We'll send a text to verify your phone</h5>
+    <br><br>
+    <button type="submit"  id="buttonNext" class="btn btn-default btn-success"> 
+      <a href="signup-send-cod.html">NEXT</a>
+    </button>
+  </form>
+  <script src="../vendors/jquery/jquery-3.2.1.min.js"></script> <!-- minificado -->
+  <script src="../vendors/bootstrap/js/bootstrap.min.js"></script> <!-- minificado -->
+  <script src="../js/signup-phone.js"></script>
+</body>
+</html>
