@@ -12,7 +12,6 @@ $(document).ready(function(){
   /* declaración de parámetros */
   var PATERNEMAIL = /^[a-zA-Z0-9\._-]+@[a-zA-Z0-9-]{2,}[.][a-zA-Z]{2,3}$/;
   var PATERNNAME = /^([a-z ñáéíóú]{2,60})$/i; 
-
   /* inicialmente botón deshabilidato */
   $next.prop('disabled',true);
   /* validación de ingreso de primer nombre */
