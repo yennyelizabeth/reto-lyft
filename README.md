@@ -19,7 +19,6 @@ Clonar el Repositorio, utilizando los comandos git clone: [https://github.com/ye
 ![Inicio](assets/img/readme/img-signup-phone-2.png)
 ![Inicio](assets/img/readme/img-signup-phone-3.png)
 ![Inicio](assets/img/readme/img-signup-send-cod.png)
-![Inicio](assets/img/readme/img-signup-send-cod-2.png)
 ![Inicio](assets/img/readme/img-succesful.png)
 
 ## Configuración de desarrollo
