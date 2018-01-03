@@ -2,41 +2,30 @@
 
 ![Inicio](assets/img/logo.png)
 
-> Prototipo de un aplicativo movil, que permitirá ubicar restaurantes catalogados como "CHIFA", de acuerdo
-al ingreso del nombre del distrito que realice el usuario, brindándole la posibilidad de consultar: 
-- Chifas : presenta los locales Chifa céntricos del distrito.
-- Platos : presenta los platos más solicitados y los platos a la carta.
-- Conoce+ : presenta información ( histórica , comentarios referentes a los Chifas)
-
-La aplicación movil propuesta tiene el objetivo de mostrar rápidamente la información relacionada a la
-ubicación de chifas cercanos, platos que se encuentran en un chifa e información relacionada a la historia,
-comentarios.
+> Prototipo de una aplicación movil para Lyft, que tiene la finalidad de inscribir a los conductores , que garantice un registro correcto de su nró de celular, el cual se verifica con el envío de un código de seguridad, luego se podrán finalmente registrar nombre, apellido y email del conductor.
 
 
 ## Instalación De Demo
 
-Clonar el Repositorio, utilizando los comandos git clone: [https://github.com/yennyelizabeth/reto-food-map.git]
+Clonar el Repositorio, utilizando los comandos git clone: [https://github.com/yennyelizabeth/reto-lyft.git]
 
 ## Ejemplo de uso
 
 - Las vistas de la demo tienen las siguientes secuencia de vistas:
 
 ![Inicio](assets/img/readme/img-index.png)
-![Inicio](assets/img/readme/img-panel.png)
-![Inicio](assets/img/readme/img-chifas.png)
-![Inicio](assets/img/readme/img-plates.png)
-
+![Inicio](assets/img/readme/img-register.png)
+![Inicio](assets/img/readme/img-signup-phone.png)
+![Inicio](assets/img/readme/img-signup-phone-2.png)
+![Inicio](assets/img/readme/img-signup-phone-3.png)
+![Inicio](assets/img/readme/img-signup-send-cod.png)
+![Inicio](assets/img/readme/img-signup-send-cod-2.png)
+![Inicio](assets/img/readme/img-succesful.png)
 
 ## Configuración de desarrollo
 
-La clonación debe generar la siguiente estructura:
+La clonación genera la estructura de carpetas y archivos necesarios.
 
-![Inicio](assets/img/readme/directorio.png)
-![Inicio](assets/img/readme/views.png)
-![Inicio](assets/img/readme/vendor.png)
-![Inicio](assets/img/readme/js.png)
-![Inicio](assets/img/readme/css.png)
-![Inicio](assets/img/readme/img.png)
 
 ## Herramientas utilizadas
 
